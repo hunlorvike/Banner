@@ -12,7 +12,6 @@
     <br>
     「 I am a backend Java developer from <b>VietNam</b> 」
     <br>
-    <br>
   </samp>
 </p>
 
@@ -44,8 +43,6 @@
 
 </p>
 
-<br/>
-
 ## Use To Code
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -57,11 +54,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-<br/>
-
-<p align="left">
-  <a href="https://github.com/hunlorvike?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
 <br/>
