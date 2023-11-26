@@ -36,12 +36,12 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-Khi cảm thấy bế tắc, có lẽ do bạn chưa đủ cố gắng.
-Khi cảm thấy mệt mỏi, hãy nghỉ ngơi lấy sức, sau đó cố gắng thêm chút nữa.
-Khi thất bại hoặc không được như ý, nghĩa là bạn cần cố gắng nhiều hơn nữa.
-Người trẻ thì cố gắng làm kinh tế, cố gắng để không bị thua thiệt với xã hội.
-Người già thì cố gắng vượt qua nỗi đau của bệnh tật, thuốc men.
-Cho nên: còn sống thì còn phải cố gắng, người không cần cố gắng chỉ có người đã khuất mà thôi.
+Khi cảm thấy bế tắc, có lẽ do bạn chưa đủ cố gắng. <br />
+Khi cảm thấy mệt mỏi, hãy nghỉ ngơi lấy sức, sau đó cố gắng thêm chút nữa. <br />
+Khi thất bại hoặc không được như ý, nghĩa là bạn cần cố gắng nhiều hơn nữa. <br />
+Người trẻ thì cố gắng làm kinh tế, cố gắng để không bị thua thiệt với xã hội. <br />
+Người già thì cố gắng vượt qua nỗi đau của bệnh tật, thuốc men. <br />
+Cho nên: còn sống thì còn phải cố gắng, người không cần cố gắng chỉ có người đã khuất mà thôi. <br />
 </p>
 
 # Use To Code
