@@ -10,7 +10,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Nguyễn+Việt+Hưng">「 Google Me 」</a>
     <br>
-    「 I am a backend Javadeveloper from <b>Việt Nam</b> 」
+    「 I am a backend Java developer from <b>VietNam</b> 」
     <br>
     <br>
   </samp>
