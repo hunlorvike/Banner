@@ -1,44 +1,55 @@
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Nguyễn Việt Hưng</a></b>
-        </samp>
-</h3>
 
 
-<p align="center"> 
+# 👋 Hello! I'm **Nguyễn Việt Hưng**!
+
+<p align="center">
   <samp>
-    <a href="https://www.google.com/search?q=Nguyễn+Việt+Hưng">「 Google Me 」</a>
+    I’m a passionate and innovative <b>Software Developer</b> from <b>Vietnam</b>, with a strong focus on backend development.
     <br>
-    「 I am a backend Java developer from <b>VietNam</b> 」
+    My expertise lies in crafting efficient, scalable applications that meet the needs of users and businesses alike. I thrive on solving complex problems and continually seek to improve my skills and knowledge in the ever-evolving tech landscape.
     <br>
+    Collaboration is key to success, so I welcome opportunities to connect, share ideas, and learn from others in the field. Let’s build something great together!
   </samp>
 </p>
 
 <p align="center">
- <a href="#" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a><a href="https://linkedin.com/in/hưng-nguyễn-4923662a0" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a><a href="https://dev.to/hungcute" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a><a href="https://www.instagram.com/hung_w03/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a><a href="https://www.facebook.com/ngviethungw0106" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  <a href="https://alsiam.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+  </a>
+  <a href="https://linkedin.com/in/hưng-nguyễn-4923662a0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://dev.to/hungcute" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" />
+  </a>
+  <a href="https://www.instagram.com/hung_w03/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/ngviethungw0106" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a> 
 </p>
-<br />
 
-## Languages
+<br/>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Angular.js](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <!-- Git Section -->
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+
+  <!-- Backend Section -->
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+
+  <!-- Frontend Section -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+</p>
 
 <br/>
