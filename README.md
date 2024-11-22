@@ -1,9 +1,3 @@
-
-
-# 👋 Hello! I'm **Nguyễn Việt Hưng**!
-
-## 🛠️ Technologies & Tools
-
 <p align="center">
   <!-- Git Section -->
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -21,5 +15,3 @@
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 </p>
-
-<br/>
