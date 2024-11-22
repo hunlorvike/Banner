@@ -3,16 +3,6 @@
 # 👋 Hello! I'm **Nguyễn Việt Hưng**!
 
 <p align="center">
-  <samp>
-    I’m a passionate and innovative <b>Software Developer</b> from <b>Vietnam</b>, with a strong focus on backend development.
-    <br>
-    My expertise lies in crafting efficient, scalable applications that meet the needs of users and businesses alike. I thrive on solving complex problems and continually seek to improve my skills and knowledge in the ever-evolving tech landscape.
-    <br>
-    Collaboration is key to success, so I welcome opportunities to connect, share ideas, and learn from others in the field. Let’s build something great together!
-  </samp>
-</p>
-
-<p align="center">
   <a href="https://alsiam.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
   </a>
